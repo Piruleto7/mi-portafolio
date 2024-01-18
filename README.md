@@ -3,5 +3,5 @@ Este es un portafolio creado con HTML, CSS y Javascript usando metodologia BEM y
 ## Autor
 <h3>Jairo Ramon Vanegas Paternina</h3>
 
-https://piruleto7.github.io/mi-portafolio/
+https://github.com/Piruleto7/mi-portafolio/blob/main/index.html
 
